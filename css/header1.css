@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    padding: 0px;
+}
+.size{
+    width: -moz-available;
+}
+.navbar {
+    height: 300px;
+    background-image: url("../images/pr-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 246px;
+
+}
+.navbar-brand {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.navbar-nav{
+    padding-left: 20px;
+}
+.navbar-right{
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.footer{
+    background-color:#000000 ;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
